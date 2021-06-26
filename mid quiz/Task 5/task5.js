@@ -12,5 +12,6 @@ readline.question('Please enter a number:', function (OddEven){
     }else{
         console.log("Please tr again")
     }
+    readline.close
 }
 )

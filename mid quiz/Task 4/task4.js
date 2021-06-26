@@ -50,3 +50,6 @@ function Objectfunc(){
     
     console.log(car.color);
 }
+
+console.log(Arrayfunc());
+console.log(Objectfunc());

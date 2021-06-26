@@ -3,7 +3,7 @@ var movies = ["Mission Imposible","Pirates of the caribean","wrath of man","6 un
 var fourthValue = movies[3];
 
 
-if(fourthValue.charAt(0) === "C"){
+if(fourthValue.charAt(0) === "I"){
     console.log("Yay");
 }
 else{
@@ -28,7 +28,6 @@ var fourthValue = movies[3];
 
 if(fourthValue.charAt(0) === "I"){
     console.log("Yay");
-}
-else{
+}else{
     console.log("Nay");
 }
